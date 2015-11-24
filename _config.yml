@@ -19,3 +19,11 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+sass:
+  # loading path from site root
+  # default to _sass
+  load_paths:
+    - "_sass"
+    - "bower_components"
+    - "bower_components/humblekit/app/assets/stylesheets"

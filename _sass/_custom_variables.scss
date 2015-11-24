@@ -1,0 +1,19 @@
+/*
+* Put all default variable overrides for Humble Kit here.
+* See humblekit/app/assets/stylesheets/base/_variables.scss for more information
+*/
+
+/*
+* If you have custom site colors, import them here so that they can be used in
+* this file
+*/
+// @import "site/colors";
+
+// Default typeface is Lato, our internal app friend
+$user-font-family-sans-serif: 'lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-family-base: $user-font-family-sans-serif;
+
+// Font weight overrides are specific to Lato font family
+$font-weight-base:  400;
+$font-weight-thin:  300;
+$font-weight-thick: 700;
