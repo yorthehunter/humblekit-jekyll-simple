@@ -24,5 +24,4 @@ sass:
   # default to _sass
   load_paths:
     - "_sass"
-    - "bower_components"
     - "bower_components/humblekit/app/assets/stylesheets"
